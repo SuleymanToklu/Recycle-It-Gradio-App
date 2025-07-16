@@ -1,0 +1,9 @@
+tensorflow
+pandas
+numpy
+matplotlib
+seaborn
+gradio
+kaggle
+kagglehub
+Pillow
