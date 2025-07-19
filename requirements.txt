@@ -1,4 +1,3 @@
-tensorflow
 pandas
 numpy
 matplotlib
@@ -7,3 +6,6 @@ gradio
 kaggle
 kagglehub
 Pillow
+# PyTorch ekleniyor
+torch
+torchvision
